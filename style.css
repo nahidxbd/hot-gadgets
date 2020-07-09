@@ -1,0 +1,66 @@
+.logo{
+    height: 50px;
+}
+#banner{
+height:100px;
+width: 100px;
+}
+#mackbook{
+    padding-top: 100px;
+}
+.buynow{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    height:40px;
+    width: 130px;
+    align-content: center;
+}
+.card {
+    border-radius: 10px;
+ box-shadow: 2px 5px 20px lightgray
+}
+#product{
+    margin-top: 100px;
+}
+.heading{
+padding-top: 20px;
+    padding-bottom: 20px;
+}
+#span{
+    color: rgba(236, 176, 11, 0.979);
+
+
+}
+
+    .card-new {
+        border-radius: 10px;
+     box-shadow: 2px 5px 20px lightgray
+    }
+.size{
+  padding: 20px 20px;
+}
+#name{
+   
+    margin-top: 100px;
+   
+}
+.color-bar{
+    display: block;
+    margin: 0 auto;
+    width: 120px;
+    height: 5px;
+    border-radius: 5px;
+    background-image: linear-gradient(to left, #ff9c35, #ffd019);
+}
+.underline{
+    display: block;
+    margin: 0 auto;
+    width: 120px;
+    height: 5px;
+    border-radius: 5px;
+    background-image: linear-gradient(to left, #ff9c35, #ffd019);
+}
+
+}
